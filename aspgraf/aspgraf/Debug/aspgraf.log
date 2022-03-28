@@ -1,0 +1,24 @@
+﻿  Source.c
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(63,20): warning C4101: 'pom': unreferenced local variable
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(163,29): warning C4047: '==': 'node *' differs in levels of indirection from 'unsigned int'
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(179,10): warning C4101: 'm': unreferenced local variable
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(179,7): warning C4101: 'j': unreferenced local variable
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(194,15): warning C4101: 'rear': unreferenced local variable
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(194,8): warning C4101: 'top': unreferenced local variable
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(419,12): warning C4047: 'return': 'char *' differs in levels of indirection from 'node **'
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(561,52): warning C4047: '=': 'node **' differs in levels of indirection from 'char *'
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(604,29): warning C4047: 'function': 'node *' differs in levels of indirection from 'node **'
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(604,25): warning C4024: 'a4': different types for formal and actual parameter 4
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(642,31): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(642,29): warning C4024: 'player1najkraci': different types for formal and actual parameter 2
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(642,39): warning C4047: 'function': 'node **' differs in levels of indirection from 'node *'
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(642,36): warning C4024: 'player1najkraci': different types for formal and actual parameter 4
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(642,45): warning C4047: 'function': 'node **' differs in levels of indirection from 'node *'
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(642,41): warning C4024: 'player1najkraci': different types for formal and actual parameter 5
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(651,39): warning C4047: 'function': 'node **' differs in levels of indirection from 'node *'
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(651,36): warning C4024: 'player2najkraci': different types for formal and actual parameter 4
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(651,45): warning C4047: 'function': 'node **' differs in levels of indirection from 'node *'
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(651,41): warning C4024: 'player2najkraci': different types for formal and actual parameter 5
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(686,12): warning C4098: 'menu': 'void' function returning a value
+C:\Users\ljuba\source\repos\aspgraf\aspgraf\Source.c(20): warning C4716: 'init_graf': must return a value
+  aspgraf.vcxproj -> C:\Users\ljuba\source\repos\aspgraf\Debug\aspgraf.exe
